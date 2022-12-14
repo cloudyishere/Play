@@ -1,0 +1,25 @@
+ESCAPE CHARACTERS
+ 
+space -------  &nbsp;
+™ ---------- &#8482;
+& ---------- &amp;
+© ---------- &copy;
+< ----------- &lt;
+> ----------- &gt;
+? ----------- &#63;
+
+USEFUL TAGS, ELEMENTS AND ATTRIBUTES
+
+bold text = <b></b>
+strong text = <strong></strong>
+Italic text = <i></i>
+EM text = <em></em>
+import text from a file = <iframe name="" src="" frameborder="0"></iframe>
+text up = <sup></sup>
+text down = <sub></sub>
+
+(FORM ELEMENTS)
+<input>
+<legend></legend>
+<fieldset></fieldset>
+<textarea name="" id="" cols="30" rows="10"></textarea>
