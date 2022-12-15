@@ -5,6 +5,7 @@
     <title>Login / Sign Up Form</title>
     <link rel="shortcut icon" href="/assets/favicon.ico">
     <link rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="loaf.css">
 </head>
 <body>
     <div class="container">
@@ -52,5 +53,11 @@
             </p>
         </form>
     </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script>
+            setTimeout(function(){
+                $('.loader_bg').fadeToggle();
+            }, 1500);
+        </script>
     <script src="login.js"></script>
 </body>
