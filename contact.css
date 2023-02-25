@@ -1,0 +1,21 @@
+body {
+    background-image: url(banana.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.contact {
+    color: white;
+    text-align: center;
+}
+
+header {
+    font-size: 100px;
+    font-family: "Kanit";
+}
+
+ol {
+    font-size: 50px;
+    font-family: "Montserrat";
+}
